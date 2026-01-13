@@ -1,6 +1,10 @@
 <div align="left">
-  <b style="font-size: 36px; font-weight:800"># Pahan Yasiru Hettiarachchi</b><br>
-  <span>SE & CS Undergraduate | Full-Stack Developer | Robotics Enthusiast</span>
+
+# Pahan Yasiru Hettiarachchi
+<p align="left" style="margin-top: -25px;">
+  SE & CS Undergraduate | Full-Stack Developer | Robotics Enthusiast
+</p>
+
 </div>
 
 ### 📂 Overview
