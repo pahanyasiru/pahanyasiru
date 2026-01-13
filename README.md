@@ -1,6 +1,7 @@
-# Pahan Yasiru Hettiarachchi
-<strong>SE & CS Undergraduate | Full-Stack Developer | Robotics Enthusiast</strong>
-
+<div align="left">
+  <b style="font-size: 24px;">Pahan Yasiru Hettiarachchi</b><br>
+  <span>SE & CS Undergraduate | Full-Stack Developer | Robotics Enthusiast</span>
+</div>
 ---
 
 ### 📂 Overview
