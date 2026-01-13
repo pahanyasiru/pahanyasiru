@@ -1,7 +1,7 @@
-# 0x000000 | System Architect
+# Pahan Yasiru Hettiarachchi
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHJUqvHweu-gg/profile-displayphoto-crop_800_800/B56ZkYvbwCHkAQ-/0/1757056715666?e=1769644800&v=beta&t=lAypdXomNsMvDydz4brsXncpHgZ5SBuXws1kIIfVYZw" width="180" height="180" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHJUqvHweu-gg/profile-displayphoto-crop_800_800/B56ZkYvbwCHkAQ-/0/1757056715666?e=1769644800&v=beta&t=lAypdXomNsMvDydz4brsXncpHgZ5SBuXws1kIIfVYZw" width="180" height="180" style="border-radius: 100%;">
 </p>
 
 <p align="center">
@@ -24,11 +24,6 @@
 `FRONTEND` : HTML, CSS, JS, React, Tailwind, Bootstrap
 `BACKEND ` : Java, Spring Boot, PHP
 `ROBOTICS` : C++, Arduino, Raspberry Pi
-
----
-
-### 📈 // SYSTEM_METRICS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahanyasiru&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333)
 
 ---
 
