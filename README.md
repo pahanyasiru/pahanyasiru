@@ -1,8 +1,7 @@
 <div align="left">
-  <b style="font-size: 36px; font-weight:800">Pahan Yasiru Hettiarachchi</b><br>
+  <b style="font-size: 36px; font-weight:800"># Pahan Yasiru Hettiarachchi</b><br>
   <span>SE & CS Undergraduate | Full-Stack Developer | Robotics Enthusiast</span>
 </div>
----
 
 ### 📂 Overview
 > Building robust, scalable systems at the intersection of web architecture and mechanical kinetics.
