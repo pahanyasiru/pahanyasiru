@@ -1,7 +1,11 @@
 # Pahan Yasiru Hettiarachchi
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHJUqvHweu-gg/profile-displayphoto-crop_800_800/B56ZkYvbwCHkAQ-/0/1757056715666?e=1769644800&v=beta&t=lAypdXomNsMvDydz4brsXncpHgZ5SBuXws1kIIfVYZw" width="180" height="180" style="border-radius: 100%;">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHJUqvHweu-gg/profile-displayphoto-crop_800_800/B56ZkYvbwCHkAQ-/0/1757056715666?e=1769644800&v=beta&t=lAypdXomNsMvDydz4brsXncpHgZ5SBuXws1kIIfVYZw" 
+  width="180" 
+  height="180" 
+  style="border-radius: 50%; border: 2px solid #333;" 
+  alt="Pahan" />
 </p>
 
 <p align="center">
