@@ -51,5 +51,5 @@
 
 <p align="center">
   <code>01010000 01100001 01101000 01100001 01101110</code><br>
-  <sub>"For a better world."</sub>
+  <sub>"A person who build things."</sub>
 </p>
